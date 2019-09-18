@@ -8,7 +8,11 @@
 
 ## Class materials
 
-Slides [here](https://docs.google.com/presentation/d/1ZdkUR2HKAzBMI3PMmQjOt7g9l1P_nbvd1ekX2F7pmSM/edit?usp=sharing), to be added as PDF prior to class
+- Slides [here](https://docs.google.com/presentation/d/1ZdkUR2HKAzBMI3PMmQjOt7g9l1P_nbvd1ekX2F7pmSM/edit?usp=sharing), to be added as PDF prior to class
+- Recommended reading:
+  - [Effective Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506)
+  - [Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+  - [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 ## Reminders
 
