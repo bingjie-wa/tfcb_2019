@@ -3,15 +3,14 @@
 ## Learning objectives
 
 - Understand expectations and objectives for the rest of the course
-- Specify why reproducibility matters in the context of computational biology
+- Describe how reproducible computational methods
 - Apply appropriate conventions for naming and organizing files and directories for computational projects
 
 ## Class materials
 
 - Slides [here](https://docs.google.com/presentation/d/1ZdkUR2HKAzBMI3PMmQjOt7g9l1P_nbvd1ekX2F7pmSM/edit?usp=sharing), to be added as PDF prior to class
 - Recommended reading:
-  - [Effective Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506)
-  - [Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+  - [Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
   - [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 ## Reminders
