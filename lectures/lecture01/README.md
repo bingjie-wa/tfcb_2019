@@ -8,7 +8,7 @@
 
 ## Class materials
 
-- Slides [here](https://docs.google.com/presentation/d/1ZdkUR2HKAzBMI3PMmQjOt7g9l1P_nbvd1ekX2F7pmSM/edit?usp=sharing), to be added as PDF prior to class
+- Slides in [Google Slides](https://docs.google.com/presentation/d/1ZdkUR2HKAzBMI3PMmQjOt7g9l1P_nbvd1ekX2F7pmSM/edit?usp=sharing) and [as PDF](lectures/lecture01/lecture01_slides.pdf)
 - Recommended reading:
   - [Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
   - [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
